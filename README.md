@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-**Live URL**: https://vahan-seven.vercel.app/
+**Live URL**: https://vahan-bazar-qis-college.vercel.app/
 
 
 Vahan Bazar is a modern two-wheeler marketplace web application that connects buyers, sellers, and dealerships in a single platform. Users can browse bikes, scooters, and electric vehicles (EVs), search and filter by brand, price, or fuel type, view detailed specifications with images, compare models side by side, use EMI and fuel cost calculators, check upcoming launches, explore showrooms, and book test rides or sell used bikes.
@@ -145,11 +145,11 @@ To design and develop an online two-wheeler marketplace that connects buyers, se
 
 | Team Member | Contribution |
 |-------------|--------------|
-| Nandyal Ram Sai | Frontend development (React + Tailwind UI, Landing Page, Bike Listing UI) |
+| Nandyal Ram Sai | Problem Researcher |
 | Sanniboyina Kavya | Backend API development (Node.js/Express, authentication, data models) |
-| Mannam Ganesh Babu | Database design (PostgreSQL schema, MongoDB integration for reviews/listings) |
+| Mannam Ganesh Babu | Frontend development  |
 | Shaik Samreen | EMI & Fuel cost calculator logic, bike comparison module |
-| Kamani Sashank | Test ride booking & Sell used bike module (form handling, uploads) |
+| Kamani Sashank | Test ride booking & Sell used bike module (form handling, uploads) Database design |
 
 ## 🚀 Getting Started
 
@@ -285,6 +285,7 @@ For support, email [team-email] or file an issue in the repository.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 #
+
 
 
 
