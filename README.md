@@ -162,8 +162,8 @@ To design and develop an online two-wheeler marketplace that connects buyers, se
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/Kavya-Sanniboyina/Wheelux.git>
-cd Wheelixe
+git clone <https://github.com/Kavya-Sanniboyina/Vahan-Bazar.git>
+cd Vahan-Bazar
 ```
 
 2. Install dependencies:
@@ -285,5 +285,6 @@ For support, email [team-email] or file an issue in the repository.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 #
+
 
 
